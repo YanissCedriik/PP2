@@ -1,0 +1,15 @@
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\bin\Debug\net8.0\parprogrammering2.exe
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\bin\Debug\net8.0\parprogrammering2.deps.json
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\bin\Debug\net8.0\parprogrammering2.runtimeconfig.json
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\bin\Debug\net8.0\parprogrammering2.dll
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\bin\Debug\net8.0\parprogrammering2.pdb
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\parprogrammering2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\parprogrammering2.AssemblyInfoInputs.cache
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\parprogrammering2.AssemblyInfo.cs
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\parprogrammering2.csproj.CoreCompileInputs.cache
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\parprogrammering2.sourcelink.json
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\parprogrammering2.dll
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\refint\parprogrammering2.dll
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\parprogrammering2.pdb
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\parprogrammering2.genruntimeconfig.cache
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprogrammering2\obj\Debug\net8.0\ref\parprogrammering2.dll
